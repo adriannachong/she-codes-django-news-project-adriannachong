@@ -1,3 +1,2 @@
-# Plus Resources: Django Project Starter
+# News Project
 
-Starter code for the Plus Django project.
